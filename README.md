@@ -20,6 +20,7 @@ It covers implementation all OOPs concepts such as
 - Constructors and Destructors
 - Friend Function
 - Virtual Function
+- Error Handling
 
 ![alt_text](https://github.com/Awantikashri/Hostel-Management-Using-CPP/blob/main/Screenshot%202021-04-25%20at%204.17.49%20PM.png)
 ![alt text](https://github.com/Awantikashri/Hostel-Management-Using-CPP/blob/main/Screenshot%202021-04-25%20at%204.18.43%20PM.png)
